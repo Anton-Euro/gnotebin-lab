@@ -1,0 +1,16 @@
+# GNoteBin
+
+This service for share your text or files.
+
+Language: Python.
+
+[SRS of program](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Requirements/SRS.md)
+
+[User interface images](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Mockups)
+
+[Diagrams]() _not implemented_
+
+[source code]() _not implemented_
+
+[Test plan]() _not implemented_ <br>
+[Test results]() _not implemented_
