@@ -37,22 +37,22 @@ Gnotebin взаимодействует со следующими внешним
 ### 2.2 Интерфейс пользователя
 Интерфейс пользователя реализован как веб-приложение с минималистичным дизайном (HTML/CSS с Bootstrap для responsivity). Взаимодействие описано в таблице "Действие пользователя — Реакция системы".
 
-Главная страница/страница создание пина
+Главная страница/страница создание пина<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/pin_create.jpg?raw=true)
 
-Страница просмотра пина(текст)
+Страница просмотра пина(текст)<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/pin_text.jpg?raw=true)
 
-Страница просмотра пина(изображение)
+Страница просмотра пина(изображение)<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/pin_image.jpg?raw=true)
 
-Страница административной панели файлов
+Страница административной панели файлов<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/admin_drive.jpg?raw=true)
 
-Страница административной панели пинов
+Страница административной панели пинов<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/admin_pins.jpg?raw=true)
 
-Страница авторизации в административную панель
+Страница авторизации в административную панель<br>
 ![](https://github.com/Anton-Euro/gnotebin-lab/blob/main/Mockups/login.jpg?raw=true)
 
 ### 2.3 Характеристики пользователей
