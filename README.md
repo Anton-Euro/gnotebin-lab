@@ -8,7 +8,7 @@ Language: Python.
 
 [User interface images](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Mockups)
 
-[Diagrams]() _not implemented_
+[Diagrams](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Diagrams)
 
 [source code]() _not implemented_
 
