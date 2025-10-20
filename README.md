@@ -10,7 +10,7 @@ Language: Python.
 
 [Diagrams](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Diagrams)
 
-[source code]() _not implemented_
+[source code](https://github.com/Anton-Euro/gnotebin-lab/tree/main/code)
 
 [Test plan]() _not implemented_ <br>
 [Test results]() _not implemented_
