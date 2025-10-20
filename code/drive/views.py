@@ -115,7 +115,7 @@ class DriveView:
                     else:
                         file_name = file_name[:index_dot] + f'({i})' + file_name[index_dot:]
                         break
-            return StreamingHttpResponse(handle_uploaded_file(file, file_id, file_name))
+            return StreamingHttpResponse(DriveView.handle_uploaded_file(file, file_id, file_name))
         return HttpResponse('1')
 
     def delete(request, file_id):
