@@ -12,5 +12,5 @@ Language: Python.
 
 [source code](https://github.com/Anton-Euro/gnotebin-lab/tree/main/code)
 
-[Test plan](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Test-plan.md)<br>
-[Test results](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Test-results.md)
+[Test plan](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Test plan.md)<br>
+[Test results](https://github.com/Anton-Euro/gnotebin-lab/tree/main/Test results.md)
